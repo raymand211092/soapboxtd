@@ -1,5 +1,4 @@
 import classNames from 'clsx';
-import { Map as ImmutableMap } from 'immutable';
 import debounce from 'lodash/debounce';
 import React, { useCallback } from 'react';
 import { defineMessages, useIntl } from 'react-intl';

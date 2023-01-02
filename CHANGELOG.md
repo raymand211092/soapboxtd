@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Layout: use accent color for "floating action button" (mobile compose button).
 - ServiceWorker: don't serve favicon, robots.txt, and others from ServiceWorker.
+- Datepicker: correctly default to the current year.
+- Scheduled posts: fix page crashing on deleting a scheduled post.
 
 ## [3.0.0] - 2022-12-25
 
